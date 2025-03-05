@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "lucky-haze-71bb",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "51bd878d-7340-49a0-84f1-13ad10490c32",
+      "database_name": "odd-river-bbba-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
